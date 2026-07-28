@@ -48,14 +48,6 @@
 
 Projeto acadêmico desenvolvido para aplicar conceitos de Álgebra Booleana, Circuitos Digitais e Arquitetura de Computadores.
 
-### 📊 Calculadora de IMC
-
-Aplicação desenvolvida em Java para cálculo do Índice de Massa Corporal.
-
-### 🛒 Sistema de Loja
-
-Projeto web voltado para simulação de uma loja virtual utilizando HTML, CSS e JavaScript.
-
 ### 🎨 Projeto Interativo no P5.js
 
 Projeto web interativo desenvolvido com a biblioteca do p5.js para a matéria de Projeto Integrador.
