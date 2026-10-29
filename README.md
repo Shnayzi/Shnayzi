@@ -19,20 +19,6 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-
-* Java
-* C
-* JavaScript
-* SQL
-
-### Desenvolvimento Web
-
-* HTML5
-* CSS3
-
 ### Ferramentas
 
 * Git
@@ -60,8 +46,7 @@ Atualmente busco oportunidades de:
 
 * Estágio em Desenvolvimento de Software
 * Jovem Aprendiz em Tecnologia
-* Desenvolvimento Back-end com Java
-* Desenvolvimento Web
+* Desenvolvimento Back-end
 
 ---
 
@@ -75,7 +60,3 @@ linkedin.com/in/ernandes-alves-dos-santos-filho
 
 💻 GitHub
 github.com/Shnayzi
-
----
-
-⭐ Sempre buscando aprender novas tecnologias e transformar conhecimento em projetos práticos.
