@@ -23,7 +23,9 @@
 
 * Git
 * GitHub
-* VS Code
+* IntelliJ
+* Visual Studio
+* MySQL / SQL Server Management
 * Logisim Evolution
 
 ---
